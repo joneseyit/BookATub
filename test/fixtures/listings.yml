@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  host_id: 1
+  picture: MyString
+  description: MyText
+  location: MyString
+
+two:
+  host_id: 1
+  picture: MyString
+  description: MyText
+  location: MyString
