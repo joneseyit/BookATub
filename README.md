@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# BookATub
 
-Things you may want to cover:
+This is Austin Wolfe and Max Goodman's Module 3 Final Project for the Flatiron School. It's a SPA (Single Page Application) built using ES6 and Rails 5.2.
 
-* Ruby version
+# Setup 
+Run 'bundle install', then run 'rails s'. 
 
-* System dependencies
 
-* Configuration
+#Contributions?
 
-* Database creation
+If you would like to contribute to this repo, then please submit a pull request or raise an issue if you find a problem. 
 
-* Database initialization
+#License
 
-* How to run the test suite
+Creative Commons License - Share-Alike Contribution 2018
+For more details, see here: https://creativecommons.org/licenses/by-sa/2.5/
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
