@@ -7,7 +7,6 @@ This is Austin Wolfe and Max Goodman's Module 3 Final Project for the Flatiron S
 # Setup 
 Run 'bundle install', then run 'rails s'. 
 
-
 #Contributions?
 
 If you would like to contribute to this repo, then please submit a pull request or raise an issue if you find a problem. 

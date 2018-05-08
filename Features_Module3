@@ -1,0 +1,13 @@
+Features: 
+
+- search for a listing 
+- CRUD listing
+- Book a Tub
+- Review a Listing that you have booked 
+- Past and current Tubs
+- Infinite scroll
+- cards
+- filter through search
+- Payment processing
+- Maps view (Google Maps API)
+-Fake Login
