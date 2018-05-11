@@ -17,6 +17,7 @@ class Api::V1::ReservationsController < ApplicationController
 
   def create
     @reservation = Reservation.new(reservation_params)
+    @reservation.save
   end
 
   def destroy
@@ -29,6 +30,7 @@ class Api::V1::ReservationsController < ApplicationController
 
   def reservation_params
     params.permit(:guest_id, :listing_id, :date_time)
+
   end
 
   def find_reservation
